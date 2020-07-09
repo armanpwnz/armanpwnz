@@ -1,8 +1,8 @@
-### Who i am :computer:
+# Who i am :computer:
 
 Hi, i am Arman - a junior fullstack developer at Wistron InfoComm(CZ). 
 
-# Get in touch
+## Get in touch
 * Linkedin = https://www.linkedin.com/in/arman-zhumanov/
 * Tech thoughts = https://twitter.com/arman_zhumanov
 * Telegram = https://t.me/armasher
