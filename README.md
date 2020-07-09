@@ -1,4 +1,4 @@
-# Who i am :computer:
+# Who i am 👨‍💻
 
 Hi, i am Arman - a junior fullstack developer at Wistron InfoComm(CZ). 
 
