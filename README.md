@@ -2,6 +2,13 @@
 
 Hi, i am Arman - a junior fullstack developer at Wistron InfoComm(CZ). 
 
+# Get in touch
+* Linkedin = https://www.linkedin.com/in/arman-zhumanov/
+* Tech thoughts = https://twitter.com/arman_zhumanov
+* Telegram = https://t.me/armasher
+* Codewars = https://www.codewars.com/users/armanpwnz
+
+
 <!--
 **armanpwnz/armanpwnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
