@@ -1,6 +1,7 @@
 # Who i am 👨‍💻
 
 Hi, i am Arman - a junior fullstack developer at Wistron InfoComm(CZ). 
+💻 Stack: Reactjs, Node, Mongodb, PWA
 
 ## Get in touch
 * <a href="https://www.linkedin.com/in/arman-zhumanov/">Linkedin</a>
