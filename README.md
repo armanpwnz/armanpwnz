@@ -8,10 +8,8 @@
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
-Hi, i am Arman - a junior fullstack developer at Wistron InfoComm(CZ). 
 
-## Get in touch
-* <a href="https://t.me/armasher">Telegram</a>
+**Hello all, I'm Arman and I'm becoming a self taught developer. Currently working in WistronInfoComm(CZ). Here you will find links to my socials, some of my work. **
 
 
 <!--
