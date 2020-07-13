@@ -5,6 +5,8 @@
 	<a href="https://www.linkedin.com/in/arman-zhumanov/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&label=Connect" alt="LinkedIn"></a>
 </p>
 
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
+
 Hi, i am Arman - a junior fullstack developer at Wistron InfoComm(CZ). 
 
 ## Get in touch
