@@ -1,15 +1,13 @@
 # Who i am 👨‍💻
 
 <p>
-	<a href="https://twitter.com/arman_zhumanov"><img src="https://img.shields.io/twitter/follow/arman_zhumanov?label=@ifisq&style=social" alt="Twitter"></a>
+	<a href="https://twitter.com/arman_zhumanov"><img src="https://img.shields.io/twitter/follow/arman_zhumanov?label=@arman-zhumanov&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/arman-zhumanov/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&label=Connect" alt="LinkedIn"></a>
 </p>
 
 Hi, i am Arman - a junior fullstack developer at Wistron InfoComm(CZ). 
 
 ## Get in touch
-* <a href="https://www.linkedin.com/in/arman-zhumanov/">Linkedin</a>
-* <a href="https://twitter.com/arman_zhumanov">Follow me on twitter</a>
 * <a href="https://t.me/armasher">Telegram</a>
 * <a href="https://www.codewars.com/users/armanpwnz">Codewars</a>
 
