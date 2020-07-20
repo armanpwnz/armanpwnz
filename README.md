@@ -6,6 +6,9 @@
 	<a href="https://www.linkedin.com/in/arman-zhumanov/">
   <img align="left" alt="Arman Zhumanov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a>
 	<a href="https://www.codewars.com/users/armanpwnz"><img src="https://www.codewars.com/users/armanpwnz/badges/small"></a>
+ 	 <a href="https://t.me/armasher">
+  <img align="left" alt="Arman Zhumanov" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+		</a>
 </p>
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
