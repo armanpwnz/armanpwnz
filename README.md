@@ -26,7 +26,6 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![github stats](https://github-readme-stats.vercel.app/api?username=armanpwnz&show_icons=true)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=armanpwnz.armanpwnz) 
 <!--
