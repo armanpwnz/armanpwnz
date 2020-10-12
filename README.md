@@ -9,6 +9,7 @@
  	 <a href="https://t.me/armasher">
   <img align="left" alt="Arman Zhumanov" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 		</a>
+	![visitors](https://visitor-badge.glitch.me/badge?page_id=armanpwnz.armanpwnz) 
 </p>
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
@@ -26,8 +27,6 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=armanpwnz.armanpwnz) 
 <!--
 **armanpwnz/armanpwnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
