@@ -72,9 +72,9 @@
 
 <br />
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=armanpwnz.armanpwnz) 
 
-<br />
 <!--
 **armanpwnz/armanpwnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
