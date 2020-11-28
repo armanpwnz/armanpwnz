@@ -24,7 +24,7 @@
 ### Frontend  
 <div align="center">  
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/53177375/100489762-9d1e9200-3116-11eb-9b38-bd728be2d97c.jpg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://user-images.githubusercontent.com/53177375/100489760-9c85fb80-3116-11eb-8c2c-02fab8e3c7f3.jpg)" alt="JavaScript" height="50" />
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/53177375/100489760-9c85fb80-3116-11eb-8c2c-02fab8e3c7f3.jpg" alt="JavaScript" height="50" />
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/53177375/100489690-17024b80-3116-11eb-8064-d9b32e7a9cf9.jpg" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/53177375/100489763-9d1e9200-3116-11eb-992d-3be0dad919f8.jpg" alt="Redux" height="50" />  
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/53177375/100489764-9db72880-3116-11eb-9942-e1111f15147c.jpg" alt="Webpack" height="50" />  
