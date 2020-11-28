@@ -17,6 +17,7 @@
 
 
 ## My Skill Set  
+<a href="https://www.codewars.com/users/armanpwnz"><img src="https://www.codewars.com/users/armanpwnz/badges/small"></a>
 <table><tr><td valign="top" width="33%">
 
 
@@ -65,7 +66,6 @@
 <a href="https://linkedin.com/in/armanzhumanov" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.codewars.com/users/armanpwnz"><img src="https://www.codewars.com/users/armanpwnz/badges/small"></a>
 <a href="https://t.me/armasher">
  <img align="left" alt="Arman Zhumanov" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
