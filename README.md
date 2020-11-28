@@ -23,15 +23,11 @@
 
 ### Frontend  
 <div align="center">  
-<img style="margin: 10px" src="http://127.0.0.1:8000/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://user-images.githubusercontent.com/53177375/100489690-17024b80-3116-11eb-8064-d9b32e7a9cf9.jpg" alt="JavaScript" height="50" />
-<img style="margin: 10px" src="http://127.0.0.1:8000/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="http://127.0.0.1:8000/skills-assets/redux-original.svg" alt="Redux" height="50" />  
-<img style="margin: 10px" src="http://127.0.0.1:8000/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="http://127.0.0.1:8000/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="http://127.0.0.1:8000/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="http://127.0.0.1:8000/skills-assets/d3.png" alt="D3.js" height="50" />  
-<img style="margin: 10px" src="http://127.0.0.1:8000/skills-assets/webpack-original.svg" alt="Webpack" height="50" />  
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/53177375/100489762-9d1e9200-3116-11eb-9b38-bd728be2d97c.jpg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/53177375/100489760-9c85fb80-3116-11eb-8c2c-02fab8e3c7f3.jpg)" alt="JavaScript" height="50" />
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/53177375/100489690-17024b80-3116-11eb-8064-d9b32e7a9cf9.jpg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/53177375/100489763-9d1e9200-3116-11eb-992d-3be0dad919f8.jpg" alt="Redux" height="50" />  
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/53177375/100489764-9db72880-3116-11eb-9942-e1111f15147c.jpg" alt="Webpack" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
@@ -40,9 +36,9 @@
 
 ### Backend  
 <div align="center">  
-<img style="margin: 10px" src="http://127.0.0.1:8000/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="http://127.0.0.1:8000/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="http://127.0.0.1:8000/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/53177375/100489761-9c85fb80-3116-11eb-8751-8a29ab17c2c3.jpg" alt="MongoDB" height="50" />  
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/53177375/100489759-9bed6500-3116-11eb-9496-44d9b00ab789.jpg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/53177375/100489757-9b54ce80-3116-11eb-9253-49813a597d4f.jpg" alt="Express.js" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
@@ -51,7 +47,7 @@
 
 ### DevOps  
 <div align="center">  
-<img style="margin: 10px" src="http://127.0.0.1:8000/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/53177375/100489755-9abc3800-3116-11eb-8324-70e85b408c92.jpg" alt="Docker" height="50" />  
 </div>
 
 </td></tr></table>  
@@ -73,6 +69,8 @@
 <br />
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=armanpwnz.armanpwnz) 
+
+<br />
 <!--
 **armanpwnz/armanpwnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
