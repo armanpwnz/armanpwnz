@@ -30,6 +30,14 @@
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/53177375/100489763-9d1e9200-3116-11eb-992d-3be0dad919f8.jpg" alt="Redux" height="50" />  
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/53177375/100489764-9db72880-3116-11eb-9942-e1111f15147c.jpg" alt="Webpack" height="50" />  
 </div>
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/53177375/100646256-151ad100-333e-11eb-989b-c781ddb78302.jpg" alt="Bootstrap" height="50" />  
+</div>
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/53177375/100646338-32e83600-333e-11eb-9aec-9909c342a799.jpg" alt="Sass" height="50" />  
+</div>
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/53177375/100646478-5ad79980-333e-11eb-8c1a-5c0f367bce69.png" alt="TailwindCSS" height="50" />  
+</div>
+
+
 
 </td><td valign="top" width="33%">
 
