@@ -8,7 +8,7 @@
 
 - 🔭 I'm frontend developer
 
-- 🌱 I’m currently learning Redux and Data Visualisation  
+- 🌱 I’m currently learning E2E testing 
   
 - 💻 I like experimenting with new technologies and building small projects  
   
