@@ -54,10 +54,6 @@
 
 
 
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://user-images.githubusercontent.com/53177375/100489755-9abc3800-3116-11eb-8324-70e85b408c92.jpg" alt="Docker" height="50" />  
-</div>
 
 </td></tr></table>  
 
