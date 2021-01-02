@@ -63,9 +63,6 @@
 <a href="https://t.me/armasher">
  <img align="left" alt="Arman Telegram" width="30px" src="https://api.iconify.design/logos:telegram.svg" />
 </a>
-<a href="https://twitter.com/arman_zhumanov">
- <img align="left" alt="Arman Twitter" width="30px" src="https://api.iconify.design/logos:twitter.svg" />
-</a>
 
 <br />
 
