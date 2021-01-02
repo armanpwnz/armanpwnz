@@ -6,7 +6,7 @@
 ### <div align="center">Hello, I'm Arman. </div>  
   
 
-- 🔭 I'm frontend developer
+- 🔭 24 y/o frontend developer
 
 - 🌱 I’m currently learning E2E testing 
   
@@ -61,7 +61,7 @@
 <img src="https://api.iconify.design/logos:linkedin.svg" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 <a href="https://t.me/armasher">
- <img align="left" alt="Arman Zhumanov" width="35px" src="https://api.iconify.design/logos:telegram.svg" />
+ <img align="left" alt="Arman Zhumanov" width="30px" src="https://api.iconify.design/logos:telegram.svg" />
 </a>
 
 <br />
