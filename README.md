@@ -58,10 +58,10 @@
 
 ## Connect with me  
 <a href="https://linkedin.com/in/armanzhumanov" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://api.iconify.design/logos:linkedin.svg" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 <a href="https://t.me/armasher">
- <img align="left" alt="Arman Zhumanov" width="22px" src="https://api.iconify.design/logos:telegram.svg" />
+ <img align="left" alt="Arman Zhumanov" width="35px" src="https://api.iconify.design/logos:telegram.svg" />
 </a>
 
 <br />
