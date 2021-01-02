@@ -18,7 +18,7 @@
 
 ## My Skill Set  
 <a href="https://www.codewars.com/users/armanpwnz"><img src="https://www.codewars.com/users/armanpwnz/badges/small"></a>
-<!-- <table><tr><td valign="top" width="33%"> -->
+<table><tr><td valign="top" width="33%">
 
 
 
@@ -39,7 +39,7 @@
 
 
 
-<!-- </td><td valign="top" width="50%"> -->
+</td><td valign="top" width="50%">
 
 
 
@@ -50,7 +50,13 @@
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/53177375/100489757-9b54ce80-3116-11eb-9253-49813a597d4f.jpg" alt="Express.js" height="50" />  
 </div>
 
-<!-- </td><td valign="top" width="50%"> -->
+</td><td valign="top" width="50%">
+  
+### DevOps  
+<div align="center">  
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/53177375/100489755-9abc3800-3116-11eb-8324-70e85b408c92.jpg" alt="Docker" height="50" />  
+</div>
+</td></tr></table>  
 
 
 <br/>  
@@ -71,11 +77,7 @@
 
 <!--
 **armanpwnz/armanpwnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://user-images.githubusercontent.com/53177375/100489755-9abc3800-3116-11eb-8324-70e85b408c92.jpg" alt="Docker" height="50" />  
-</div>
-</td></tr></table>  
+
 
 
 Here are some ideas to get you started:
