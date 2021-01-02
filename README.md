@@ -25,18 +25,12 @@
 ### Frontend  
 <div align="center">  
 <img style="margin 10px" src="https://api.iconify.design/vscode-icons:file-type-reactjs.svg" alt="React" height="50" />
-<img style="margin: 10px" src="https://user-images.githubusercontent.com/53177375/100489760-9c85fb80-3116-11eb-8c2c-02fab8e3c7f3.jpg" alt="JavaScript" height="50" />
 <img style="margin: 10px" src="https://api.iconify.design/logos:javascript.svg" alt="JavaScript" height="50" />
-<img style="margin: 10px" src="https://user-images.githubusercontent.com/53177375/100489690-17024b80-3116-11eb-8064-d9b32e7a9cf9.jpg" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://api.iconify.design/logos:typescript-icon.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://user-images.githubusercontent.com/53177375/100489763-9d1e9200-3116-11eb-992d-3be0dad919f8.jpg" alt="Redux" height="50" />
 <img style="margin 10px" src="https://api.iconify.design/logos:redux.svg" alt="Redux" height="50" />
-<img style="margin: 10px" src="https://user-images.githubusercontent.com/53177375/100489764-9db72880-3116-11eb-9942-e1111f15147c.jpg" alt="Webpack" height="50" />
 <img style="margin: 10px" src="https://api.iconify.design/logos:webpack.svg" alt="Webpack" height="50" />
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/53177375/100646696-a427e900-333e-11eb-87f5-503de8ab1ab6.png" alt="Material-UI" height="50" />  
-<img style="margin: 10px" src="https://user-images.githubusercontent.com/53177375/100646338-32e83600-333e-11eb-9aec-9909c342a799.jpg" alt="Sass" height="50" />
 <img style="margin: 10px" src="https://api.iconify.design/logos:sass.svg" alt="Sass" height="50" />
-<img style="margin: 10px" src="https://user-images.githubusercontent.com/53177375/100646478-5ad79980-333e-11eb-8c1a-5c0f367bce69.png" alt="TailwindCSS" height="50" />  
 <img style="margin: 10px" src="https://api.iconify.design/logos:tailwindcss-icon.svg" alt="TailwindCSS" height="50" />  
 
 
@@ -46,17 +40,14 @@
 
 ### Backend  
 <div align="center">  
-<img style="margin: 10px" src="https://user-images.githubusercontent.com/53177375/100489761-9c85fb80-3116-11eb-8751-8a29ab17c2c3.jpg" alt="MongoDB" height="50" /> <img style="margin: 10px" src="https://api.iconify.design/vscode-icons:file-type-mongo.svg" alt="MongoDB" height="50" />  
- 
-<img style="margin: 10px" src="https://user-images.githubusercontent.com/53177375/100489759-9bed6500-3116-11eb-9496-44d9b00ab789.jpg" alt="Node.js" height="50" /> 
+<img style="margin: 10px" src="https://api.iconify.design/vscode-icons:file-type-mongo.svg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://api.iconify.design/logos:nodejs.svg" alt="Node.js" height="50" /> 
-<img style="margin: 10px" src="https://user-images.githubusercontent.com/53177375/100489757-9b54ce80-3116-11eb-9253-49813a597d4f.jpg" alt="Express.js" height="50" />    
+<img style="margin: 10px" src="https://api.iconify.design/logos:express.svg" alt="Express.js" height="50" />    
 
 </td><td valign="top" width="33%">
   
 ### DevOps  
 <div align="center">  
-<img style="margin: 10px" src="https://user-images.githubusercontent.com/53177375/100489755-9abc3800-3116-11eb-8324-70e85b408c92.jpg" alt="Docker" height="50" /> 
 <img style="margin: 10px" src="https://api.iconify.design/logos:docker-icon.svg" alt="Docker" height="50" /> 
 </div>
 </td></tr></table>  
