@@ -39,7 +39,7 @@
 
 
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="33%">
 
 
 
@@ -50,7 +50,7 @@
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/53177375/100489757-9b54ce80-3116-11eb-9253-49813a597d4f.jpg" alt="Express.js" height="50" />  
 </div>
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="33%">
   
 ### DevOps  
 <div align="center">  
