@@ -31,7 +31,7 @@
 <img style="margin: 10px" src="https://api.iconify.design/logos:webpack.svg" alt="Webpack" height="50" />
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/53177375/100646696-a427e900-333e-11eb-87f5-503de8ab1ab6.png" alt="Material-UI" height="50" />  
 <img style="margin: 10px" src="https://api.iconify.design/logos:sass.svg" alt="Sass" height="50" />
-<img style="margin: 10px" src="https://api.iconify.design/logos:tailwindcss-icon.svg" alt="TailwindCSS" height="50" />  
+<img style="margin: 8px" src="https://api.iconify.design/logos:tailwindcss-icon.svg" alt="TailwindCSS" height="50" />  
 
 
 </td><td valign="top" width="33%">
@@ -58,7 +58,7 @@
 
 ## Connect with me  
 <a href="https://linkedin.com/in/armanzhumanov">
-<img src="https://api.iconify.design/logos:linkedin.svg" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://api.iconify.design/logos:linkedin.svg" alt=linkedin style="margin-bottom: 5px"/>
 </a>
 <a href="https://t.me/armasher">
  <img align="left" alt="Arman Telegram" width="30px" src="https://api.iconify.design/logos:telegram.svg" />
