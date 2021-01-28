@@ -12,7 +12,7 @@
   
 - 💻 I like experimenting with new technologies and building small projects  
   
-- 🌎 <a href="https://armanpwnz.github.io/">Blog</a>
+- 🌎 <a href="https://armanpwnz.github.io/">Resume</a>
 <br/>  
 
 
