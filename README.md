@@ -8,11 +8,9 @@
 
 - 🔭 24 y/o frontend developer
 
-- 🌱 I’m currently learning E2E testing 
-  
 - 💻 I like experimenting with new technologies and building small projects  
   
-- 🌎 <a href="https://armanpwnz.github.io/">Resume</a>
+- 🌎 <a href="https://armanpwnz.github.io/">Download CV</a>
 <br/>  
 
 
