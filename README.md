@@ -3,14 +3,16 @@
 </div>  
   
 
-### <div align="center">Hello, I'm Arman. </div>  
+### <div align="center">Hi </div>  
   
 
-- 🔭 24 y/o frontend developer
+- 💻  I'm Arman, a passionate self-taught Frontend developer from Czech Republic. 
 
-- 💻 I like experimenting with new technologies and building small projects  
+- ⚡ I’m currently working in Elvoris s.r.o and I'm a member of Russian MDN team.
+
+- 🔭 I like experimenting with new technologies and building small projects  
   
-- 🌎 <a href="https://armanpwnz.github.io/">Download CV</a>
+- 🌎 My CV web <a href="https://armanpwnz.github.io/">https://armanpwnz.github.io/</a>
 <br/>  
 
 
