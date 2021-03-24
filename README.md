@@ -8,7 +8,7 @@
 
 - 💻  I'm Arman, a passionate self-taught Frontend developer from Czech Republic. 
 
-- ⚡ I’m currently working in Elvoris s.r.o and I'm a member of Russian MDN team.
+- ⚡ I’m currently working in Elvoris s.r.o and I'm a member of the Russian MDN team.
 
 - 🔭 I like experimenting with new technologies and building small projects  
   
