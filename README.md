@@ -8,8 +8,6 @@
 
 - 💻  I'm Arman, a passionate self-taught Frontend developer from Czech Republic. 
 
-- ⚡ I’m currently working in Elvoris s.r.o and I'm a member of the Russian MDN team.
-
 - 🔭 I like experimenting with new technologies and building small projects  
   
 - 🌎 My CV web <a href="https://armanpwnz.github.io/">https://armanpwnz.github.io/</a>
@@ -72,7 +70,7 @@
 <!--
 **armanpwnz/armanpwnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
-
+- ⚡ I’m currently working in Elvoris s.r.o and I'm a member of the Russian MDN team.
 
 Here are some ideas to get you started:
 
