@@ -10,7 +10,7 @@
 
 - 🔭 I like experimenting with new technologies and building small projects  
   
-- 🌎 My CV web <a href="https://armanpwnz.github.io/">https://armanpwnz.github.io/</a>
+- 🌎 My CV<a href="https://armanpwnz.github.io/">https://armanpwnz.github.io/</a>
 <br/>  
 
 
