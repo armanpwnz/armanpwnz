@@ -8,7 +8,7 @@
 
 - 💻  I'm Arman, a passionate self-taught Frontend developer from Czech Republic. 
 
-- 🔭 I like experimenting with new technologies and building small projects  
+- 🔭 I like experimenting with new technologies  
   
 <br/>  
 
