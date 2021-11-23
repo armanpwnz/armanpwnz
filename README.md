@@ -1,71 +1,42 @@
-<div align="center">
-<!-- <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /> -->
-</div>  
-  
+# Hey 👋, I'm Arman!
 
-### <div align="center">Hi </div>  
-  
+<img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 
-- 💻  I'm Arman, a passionate self-taught Frontend developer from Czech Republic. 
-
-- 🔭 I like experimenting with new technologies  
-  
-<br/>  
+<a href="https://twitter.com/armanpwnz" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://t.me/armasher" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram" alt="Telegram"></a>
+<a href="https://github.com/armanpwnz/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
 
 
-## My Skill Set  
-<a href="https://www.codewars.com/users/armanpwnz"><img src="https://www.codewars.com/users/armanpwnz/badges/small"></a>
-<table><tr><td valign="top" width="33%">
+## About Me
+
+I'm **Arman Zhumanov**, a **Frontend developer** living in **Brno, CZ**.
+
+I have more than 2 years of experience in related job positions.
+
+I also like to talk about the latest research and web technologies.
 
 
+## Languages and Tools
 
-### Frontend  
-<div align="center">  
-<img style="margin 10px" src="https://api.iconify.design/vscode-icons:file-type-reactjs.svg" alt="React" height="50" />
-<img style="margin: 10px" src="https://api.iconify.design/logos:javascript.svg" alt="JavaScript" height="50" />
-<img style="margin: 10px" src="https://api.iconify.design/logos:typescript-icon.svg" alt="TypeScript" height="50" />  
-<img style="margin 10px" src="https://api.iconify.design/logos:redux.svg" alt="Redux" height="50" />
-<img style="margin: 10px" src="https://api.iconify.design/logos:webpack.svg" alt="Webpack" height="50" />
-<img style="margin: 10px" src="https://user-images.githubusercontent.com/53177375/100646696-a427e900-333e-11eb-87f5-503de8ab1ab6.png" alt="Material-UI" height="50" />  
-<img style="margin: 10px" src="https://api.iconify.design/logos:sass.svg" alt="Sass" height="50" />
-<img style="margin: 8px" src="https://api.iconify.design/logos:tailwindcss-icon.svg" alt="TailwindCSS" height="50" />  
-
-
-</td><td valign="top" width="33%">
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img style="margin 10px" src="https://api.iconify.design/vscode-icons:file-type-reactjs.svg" alt="React" height="20"></code>
+<code><img style="margin 10px" src="https://api.iconify.design/logos:redux.svg" alt="Redux" height="20" /></code>
+<code><img style="margin: 10px" src="https://api.iconify.design/logos:webpack.svg" alt="Webpack" height="20" /></code>
+<code><img style="margin: 10px" src="https://user-images.githubusercontent.com/53177375/100646696-a427e900-333e-11eb-87f5-503de8ab1ab6.png" alt="Material-UI" height="20" /></code>
+<code><img style="margin: 8px" src="https://api.iconify.design/logos:tailwindcss-icon.svg" alt="TailwindCSS" height="20" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
+## Stats
 
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://api.iconify.design/vscode-icons:file-type-mongo.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://api.iconify.design/logos:nodejs.svg" alt="Node.js" height="50" /> 
-<img style="margin: 10px" src="https://api.iconify.design/logos:express.svg" alt="Express.js" height="50" />    
+![thekiba's github stats](https://github-readme-stats.vercel.app/api?username=armanpwnz&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&hide_title=false)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armanpwnz&hide=html&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-</td><td valign="top" width="33%">
-  
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://api.iconify.design/logos:docker-icon.svg" alt="Docker" height="50" /> 
-</div>
-</td></tr></table>  
-
-
-<br/>  
-
-
-## Connect with me  
-<a href="https://linkedin.com/in/armanzhumanov">
-<img src="https://api.iconify.design/logos:linkedin.svg" alt=linkedin style="margin-bottom: 5px"/>
-</a>
-<a href="https://t.me/armasher">
- <img align="left" alt="Arman Telegram" width="30px" src="https://api.iconify.design/logos:telegram.svg" />
-</a>
-
-<br />
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=armanpwnz.armanpwnz) 
-
 <!--
 **armanpwnz/armanpwnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
