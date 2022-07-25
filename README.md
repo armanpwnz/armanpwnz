@@ -11,7 +11,7 @@
 
 I'm **Arman Zhumanov**, a **Frontend developer** living in **Brno, CZ**.
 
-I have more than 2 years of experience in related job positions.
+I have more than 2.5 years of experience in related job positions.
 
 I also like to talk about the latest research and web technologies.
 
