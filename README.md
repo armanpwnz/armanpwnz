@@ -9,7 +9,7 @@
 
 ## About Me
 
-I'm **Arman Zhumanov**, a **Frontend developer** living in **Brno, CZ**.
+I'm **Arman**, a passionate self-taught Frontend developer. Born in Kazakhstan. Now I've been living in the **Brno, Czech Republic** for more than 7 years.
 
 I have more than 2.5 years of experience in related job positions.
 
