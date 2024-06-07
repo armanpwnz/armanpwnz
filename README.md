@@ -2,10 +2,6 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 
-<a href="https://twitter.com/armanpwnz" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
-<a href="https://t.me/armasher" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram" alt="Telegram"></a>
-<a href="https://github.com/armanpwnz/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
-
 
 ## About Me
 
@@ -36,7 +32,6 @@ I also like to talk about the latest research and web technologies.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armanpwnz&hide=html&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![visitors](https://visitor-badge.glitch.me/badge?page_id=armanpwnz.armanpwnz) 
 <!--
 **armanpwnz/armanpwnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
