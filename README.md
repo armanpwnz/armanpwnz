@@ -7,7 +7,7 @@
 
 I'm **Arman**, a passionate self-taught Frontend developer. Born in Kazakhstan. Now I've been living in the **Prague, Czech Republic**.
 
-I have more than 4.5 years of experience in related job positions.
+I have more than 5 years of experience in related job positions.
 
 I also like to talk about the latest research and web technologies.
 
