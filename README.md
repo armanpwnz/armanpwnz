@@ -1,6 +1,6 @@
 # Hey 👋, I'm Arman!
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+
 
 
 ## About Me
@@ -14,9 +14,10 @@ I also like to talk about the latest research and web technologies.
 
 ## Languages and Tools
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img style="margin 10px" src="https://api.iconify.design/vscode-icons:file-type-reactjs.svg" alt="React" height="20"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img style="margin 10px" src="https://api.iconify.design/skill-icons:react-dark.svg" alt="React" height="20"></code>
+<code><img style="margin: 10px" src="https://api.iconify.design/skill-icons:nextjs-light.svg" alt="Webpack" height="20" /></code>
 <code><img style="margin 10px" src="https://api.iconify.design/logos:redux.svg" alt="Redux" height="20" /></code>
 <code><img style="margin: 10px" src="https://api.iconify.design/logos:webpack.svg" alt="Webpack" height="20" /></code>
 <code><img style="margin: 10px" src="https://user-images.githubusercontent.com/53177375/100646696-a427e900-333e-11eb-87f5-503de8ab1ab6.png" alt="Material-UI" height="20" /></code>
@@ -25,15 +26,9 @@ I also like to talk about the latest research and web technologies.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-
-## Stats
-
-![thekiba's github stats](https://github-readme-stats.vercel.app/api?username=armanpwnz&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&hide_title=false)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armanpwnz&hide=html&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <!--
 **armanpwnz/armanpwnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 
 - ⚡ I’m currently working in Elvoris s.r.o and I'm a member of the Russian MDN team.
 - 🌎 My CV<a href="https://armanpwnz.github.io/">https://armanpwnz.github.io/</a>
