@@ -21,7 +21,7 @@ I also like to talk about the latest research and web technologies.
 <code><img style="margin 10px" src="https://api.iconify.design/logos:redux.svg" alt="Redux" height="20" /></code>
 <code><img style="margin: 10px" src="https://api.iconify.design/logos:webpack.svg" alt="Webpack" height="20" /></code>
 <code><img style="margin: 10px" src="https://user-images.githubusercontent.com/53177375/100646696-a427e900-333e-11eb-87f5-503de8ab1ab6.png" alt="Material-UI" height="20" /></code>
-<code><img style="margin: 8px" src="https://api.iconify.design/logos:tailwindcss-icon.svg" alt="TailwindCSS" height="20" /></code>
+<code><img style="margin: 8px" src="https://api.iconify.design/logos:tailwindcss-icon.svg" alt="TailwindCSS" height="20" width="20" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
